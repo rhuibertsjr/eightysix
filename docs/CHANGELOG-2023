@@ -1,3 +1,7 @@
-18-10-2023  René Huiberts  <rhuibjr.business@gmail.com>
+21-11-2023  René Huiberts  <rhuibjr.business@gmail.com>
+
+	Added: logging, abort & assertion helpers.
+
+21-11-2023  René Huiberts  <rhuibjr.business@gmail.com>
 
 	Initial commit
